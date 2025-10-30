@@ -31,6 +31,8 @@ qbittorrent
 loupe
 ncdu
 
+curl -fsSL https://install.danklinux.com | sh~
+
 then set up...
 
 spicetify
