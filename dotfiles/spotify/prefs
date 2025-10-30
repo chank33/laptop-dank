@@ -1,0 +1,9 @@
+autologin.username="kaya333"
+autologin.saved_credentials="{\"kaya333\":[\"kaya333\",\"O8O1cfxE6QKCnqk1lw8wOwDYp8qfntZiH85pj4GRPp56ErHgAacnHeODR2hZnb/+ExDpb2EERkGmaWNAZRGlyg1NUPjJrfoNByKbHj+hd3G0jbvcfZt5qokp7KDjBTmQ9BQWr6VVA0nh8Gu9bVwIqYBN6gCJ6pTyJGJHRKe4m5bburY2UADUMhq8tgquIClFfPC3RGlEjDa8LKcI/yFkfh8U9y5RaPD0LwVqYL4yvfLcnQJef3xmYqeZtFgtTTXK\"]}"
+autologin.canonical_username="kaya333"
+autologin.blob="O8O1cfxE6QKCnqk1lw8wOwDYp8qfntZiH85pj4GRPp56ErHgAacnHeODR2hZnb/+ExDpb2EERkGmaWNAZRGlyg1NUPjJrfoNByKbHj+hd3G0jbvcfZt5qokp7KDjBTmQ9BQWr6VVA0nh8Gu9bVwIqYBN6gCJ6pTyJGJHRKe4m5bburY2UADUMhq8tgquIClFfPC3RGlEjDa8LKcI/yFkfh8U9y5RaPD0LwVqYL4yvfLcnQJef3xmYqeZtFgtTTXK"
+es.send-on-startup=true
+core.clock_delta=0
+app.autostart-mode="off"
+storage.last-location="/home/k/.cache/spotify/Storage"
+app.last-launched-version="1.2.74.477.g3be53afe"
