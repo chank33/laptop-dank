@@ -43,3 +43,5 @@ vscode
 nodejs w/ fish (!)
 
 yay seahorse if default keyring pop up
+
+remember to enable virtio / 3d when setting up virt-manager
