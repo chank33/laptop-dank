@@ -1,7 +1,7 @@
 {
-  "currentThemeName": "blue",
+  "currentThemeName": "pink",
   "customThemeFile": "",
-  "matugenScheme": "scheme-expressive",
+  "matugenScheme": "scheme-content",
   "runUserMatugenTemplates": true,
   "matugenTargetMonitor": "",
   "dankBarTransparency": 0.66,
@@ -114,9 +114,9 @@
   "keyboardLayoutNameCompactMode": false,
   "runningAppsCurrentWorkspace": false,
   "runningAppsGroupByApp": false,
-  "clockDateFormat": "dddd, MMMM d",
+  "clockDateFormat": "ddd MMM d",
   "lockDateFormat": "",
-  "mediaSize": 1,
+  "mediaSize": 2,
   "dankBarLeftWidgets": [
     {
       "id": "focusedWindow",
@@ -136,10 +136,6 @@
     },
     {
       "id": "notificationButton",
-      "enabled": true
-    },
-    {
-      "id": "idleInhibitor",
       "enabled": true
     },
     {
@@ -163,15 +159,11 @@
   ],
   "dankBarRightWidgets": [
     {
-      "id": "weather",
-      "enabled": true
-    },
-    {
-      "id": "separator",
-      "enabled": true
-    },
-    {
       "id": "clock",
+      "enabled": true
+    },
+    {
+      "id": "weather",
       "enabled": true
     },
     {
