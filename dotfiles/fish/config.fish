@@ -4,7 +4,7 @@ end
 
 set -g fish_greeting ''
 
-alias oo="systemctl restart sddm.service"
+# alias oo="systemctl restart sddm.service"
 alias c="clear"
 alias h="htop"
 alias m="micro"
@@ -12,6 +12,8 @@ alias cdh="cd ~/.config/niri"
 alias y="f && yay"
 alias f="fastfetch -l small --logo-padding-top 7"
 alias yeet="yay -Rns"
+alias disk="ncdu"
+
 
 function cd --argument dir
     if [ "dir" = "" ]

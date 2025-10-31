@@ -30,6 +30,7 @@ spotify
 qbittorrent
 loupe
 ncdu
+nordvpn // archwiki
 
 curl -fsSL https://install.danklinux.com | sh~
 
@@ -40,3 +41,5 @@ virtualisation
 git
 vscode
 nodejs w/ fish (!)
+
+yay seahorse if default keyring pop up
